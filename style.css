@@ -11,6 +11,7 @@ body {
 
 h1 {
   font-family: 'Roboto Slab', serif;
+  color: #303878;
   font-weight: bolder;
   font-size: 40px;
 
@@ -18,18 +19,18 @@ h1 {
 
 h2 {
   font-family: 'Roboto Slab', serif;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 0px;
-}
-
-h3 {
-  font-family: 'Roboto Slab', serif;
   color: #2b374f;
   font-weight: bold;
   font-size: 20px;
 }
 
+h3 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 0px;
+}
+\
 h4 {
   font-size: 120px;
   line-height: 0px;
@@ -73,13 +74,10 @@ a:hover {
 }
 
 
-
 .img-circle {
-  border-radius: 75px;
-  border-style: solid;
-  border-color: #2b374f;
-
+  border-radius: 75px
 }
+
 .text-center {
   text-align: center;
 }
